@@ -15,7 +15,7 @@ function App () {
           target='_blank'
           rel='noopener noreferrer'
         >
-          Takumi satake
+          Takumi satake yusuke
         </a>
       </header>
     </div>
