@@ -17,7 +17,6 @@ function App () {
         >
           Nishimura
         </a>
-        <Sensei />
       </header>
     </div>
   )
